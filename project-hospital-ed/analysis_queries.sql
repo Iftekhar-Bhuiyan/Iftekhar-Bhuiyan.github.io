@@ -1,6 +1,6 @@
 -- ============================================================
 --  Hospital Emergency Department — Performance Analysis
---  Author  : [Your Name]
+--  Author  : Iftekhar Bhuiyan
 --  Dataset : hospital_ed_data.csv  (2,000 records, FY2024)
 --  Engine  : MySQL / PostgreSQL compatible
 -- ============================================================
